@@ -4,7 +4,7 @@
  * Description: To prevent the replacement of tags when Imagify's WebP feature is enabled. 
  * 				This is because, when Creating the webp versions of images, the display images in webp format on the site 
  * 				option can result in a the tags replacements.
- * Plugin URI:  {GitHub repo URL of this plugin}
+ * Plugin URI:  https://github.com/Gedeonnibango1/Imagify-helper/tree/master/optimization/imagify-prevent-replacement-img-to-picture
  * Author:      Gedeon Nibango and Imagify Support Team
  * Author URI:  http://imagify.io/
  * License:     GNU General Public License v2 or later
